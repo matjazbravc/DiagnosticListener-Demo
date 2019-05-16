@@ -44,7 +44,7 @@ public class Startup
 ```
 
 If you run this application from Visual Studio, you'll notice new entries in the Output window: 
-
+![](https://github.com/matjazbravc/DiagnosticListener-Demo/blob/master/res/diagnosticlistener-demo.jpg)
 
 
 ## Summary
